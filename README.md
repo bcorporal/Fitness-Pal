@@ -18,12 +18,12 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-- Go to GitHub Repo https://github.com/dwarrick91/Fitness-Pal
-- Go to Heroku Deployed Url https://pacific-falls-61654.herokuapp.com
+- Go to GitHub Repo https://github.com/bcorporal/Fitness-Pal.git
+- Go to Heroku Deployed Url https://pacific-wave-33969.herokuapp.com/login
 
 ## Usage
 
-- Go to Heroku Deployed Url https://pacific-falls-61654.herokuapp.com
+- Go to Heroku Deployed Url https://pacific-falls-61654.herokuapp.com 
 - Click "Click here to sign up!"
 - Select date from calender
 - Enter info into input fields
